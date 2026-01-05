@@ -15,7 +15,7 @@ Gerçek proje, ticari ve güvenlik nedenleriyle private tutulmaktadır.
 Satış temsilcileri, firmalara gittiklerinde tablet üzerinden ürünleri hızlı ve düzenli şekilde tanıtabilir.
 
 ## Demo Code (Safe)
-`demo/CategoriesScreen.tsx` dosyası, gerçek projedeki kategori ekranının vitrin amaçlı güvenli bir versiyonudur (fake data + private bağımlılıklar çıkarılmıştır).
+`demo/CategoriesScreen.tsx` dosyası, gerçek projedeki kategori ekranının mimarisini ve kullanıcı etkileşimlerini yansıtan, vitrin amaçlı güvenli bir örnektir (fake data + private bağımlılıklar çıkarılmıştır).
 
 ## Screenshots
 ![Ekran 1](https://github.com/beratoprak/digital-catalog-showcase/blob/main/IMAGE%202026-01-05%2022:46:22.jpg?raw=true)
